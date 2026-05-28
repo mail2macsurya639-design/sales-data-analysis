@@ -1,0 +1,4 @@
+# requirements.txt
+# Week 3 - Sales Data Analysis
+
+pandas
